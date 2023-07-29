@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @965022-oss
+
+alexander guico
+I'm interested in Github repository and coding.
+I'm currently learning GitHub CLI and repository code template.
+I'am willing to collaborate on GitHub code developer.
+You can reach on my emails alexanderguico22@gmail.com/guicoalexander05@gmail.com/website @965022-oss/https://965022-oss.github.io/965022-oss/
+
+ - 👋 Hi, I’m @965022-oss
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
